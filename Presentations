@@ -1,0 +1,45 @@
+Each Student must do 2 presentations, 10-15 minutes in length, 
+with an intro-body-conclusion format (Tell them what you are going to tell them, tell them, then tell them what you told them)
+You can only choose at most one topic from a category (e.g. you can't do Kanban AND Crystal).
+Put your Name (first and last) next to the topic you choose. 
+No more than 2 students can choose the same topic. 
+You can not remove someone's name from a topic. If you want it and it already has 2 students associated with it, then
+you can team up with someone and co-present: if you do team up, the presentation must be 15-20 minutes in length and each person must do ~50% of the presentation
+
+
+Lifecycle Models and Process
+1.	Kanban (Software Development)	-
+2.	Crystal (Software Development)	- 
+3.	Team Software Process and Personal Software Process - 
+4.a.	Build Automation - 
+4.b. 	CI/CD Pipeline - 
+
+Project Management and Professional Practice
+5.	Risk Management - 
+6.	Software Complexity Metrics	-
+7.	Formal Methods			- 
+8.	Cleanroom Software Engineering - 
+9.	Microsoft Project -
+10.	Software Engineering Licensing - 
+
+Software Architectures and Tools
+11.	Service-Oriented Architecture - 
+12.	Infrastructure as a Service	- 
+13.	Platform as a Service	- 
+14.	Docker  - 
+15.	Ansible - 
+16.	Jenkins	- 
+17.	Splunk (for DevOps) - 
+18.	Selenium - 
+19.	AppDynamics - 
+
+Development Paradigms and Testing
+20.	Test-Driven Development -
+21.	Behavior Driven Development - 
+22.	Feature Driven Development - 
+23.	Dependency Injection - 
+
+AI in SE
+24. AI for code completion - 
+25. AI for code creation (where the AI writes all the code) - 
+26. AI for code analysis - 
