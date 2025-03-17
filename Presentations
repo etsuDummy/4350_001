@@ -8,7 +8,9 @@ you can team up with someone and co-present: if you do team up, the presentation
 
 
 Lifecycle Models and Process
-1.	Kanban (Software Development)	-  Gavin Frisby, Christopher Oaks
+1.	Kanban (Software Development)	-  Gavin Frisby - https://www.youtube.com/watch?v=CIaWbSYlJ-E, Christopher Oaks
+    Chris: https://youtu.be/85b1Wdc_XNQ
+
 2.	Crystal (Software Development)	- 
 3.	Team Software Process and Personal Software Process - 
 4.a.	Build Automation - 
@@ -26,12 +28,13 @@ Software Architectures and Tools
 10.	Angular or React - 
 11.	Service-Oriented Architecture - 
 12.	Infrastructure as a Service	- 
-13.	Platform as a Service	-  Zachary Farmer
-14.	Docker  - Justin Dubin
-15.	Ansible - Randy Nixon
-16.	Jenkins	- Christian Bolick
-17.	Splunk (for DevOps) - Tyler Campbell
+13.	Platform as a Service	-  Zachary Farmer https://www.youtube.com/watch?v=4LNyoEWWjy8
+14.	Docker  - Justin Dubin https://youtu.be/TPmBWpA0nJo
+15.	Ansible - Randy Nixon - https://youtu.be/Xe_KjOJnUL0
+16.	Jenkins	- Christian Bolick: (https://youtu.be/NatoOw0OgX4)
+17.	Splunk (for DevOps) - Tyler Campbell https://www.youtube.com/watch?v=hV5Y3cZvGGs
 18.	Selenium - Braxton Olterman,  Nathan Mink
+    Braxton: https://youtu.be/XJvwo-Cuztw
 19.	AWS or Azure - Joshua King, Chris Powers
     Chris: https://vimeo.com/1052158279/92b5b31b49?share=copy (EVALUATED)
     Joshua: https://www.youtube.com/watch?v=5Lp_t8HmN-I
@@ -39,17 +42,22 @@ Software Architectures and Tools
 
 Development Paradigms and Testing
 20.	Test-Driven Development -  Braydon Fields https://youtu.be/W7SY7LoNWyc
-21.	Behavior Driven Development - Veronica Watson
+21.	Behavior Driven Development - Veronica Watson https://youtu.be/zxsLpftxVtQ
 22.	Feature Driven Development -  Noah Drumwright
 23.	Dependency Injection - 
 
 AI in SE
 24. AI for code completion - Kevin Davis https://youtu.be/4_iP0Ry5L6w
-25. AI for code creation (where the AI writes all the code) - Caden Gay, Elias Afshar
-26. AI for code analysis - Bailey Wilson
+
+25. AI for code creation (where the AI writes all the code) - Caden Gay: https://youtu.be/ZktpdRxQ2E8
+                                                              Elias Afshar
+26. AI for code analysis - Bailey Wilson https://www.youtube.com/watch?v=N3gWfJxpwI8&t=143s
+
+
 
 Power Platform - Curtis Reece, Ismael Melchor
+    Curtis: https://youtu.be/qK6IbyjYhBM
 
-Design Patterns - Sean Mulvey
+Design Patterns - Sean Mulvey https://www.youtube.com/watch?v=pnxG27DvDec
 
-The Pheonix Project - Grace McCale
+The Pheonix Project - Grace McCale https://youtu.be/lACs9mfzxmU
