@@ -28,9 +28,9 @@ Software Architectures and Tools
 12.	Infrastructure as a Service	- 
 13.	Platform as a Service	-  Zachary Farmer
 14.	Docker  - Justin Dubin
-15.	Ansible - Randy Nixon
+15.	Ansible - Randy Nixon - https://youtu.be/Xe_KjOJnUL0
 16.	Jenkins	- Christian Bolick: (https://youtu.be/NatoOw0OgX4)
-17.	Splunk (for DevOps) - Tyler Campbell
+17.	Splunk (for DevOps) - Tyler Campbell https://www.youtube.com/watch?v=hV5Y3cZvGGs
 18.	Selenium - Braxton Olterman,  Nathan Mink
 19.	AWS or Azure - Joshua King, Chris Powers
     Chris: https://vimeo.com/1052158279/92b5b31b49?share=copy (EVALUATED)
@@ -45,7 +45,9 @@ Development Paradigms and Testing
 
 AI in SE
 24. AI for code completion - Kevin Davis 
-25. AI for code creation (where the AI writes all the code) - Caden Gay, Elias Afshar
+25. AI for code creation (where the AI writes all the code) - Caden Gay: https://youtu.be/ZktpdRxQ2E8
+                                                              Elias Afshar
+
 26. AI for code analysis - Bailey Wilson
 
 Power Platform - Curtis Reece, Ismael Melchor
